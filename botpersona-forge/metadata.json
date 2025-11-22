@@ -1,0 +1,5 @@
+{
+  "name": "BotPersona Forge",
+  "description": "Generate and test Telegram Bot personalities. Creates BotFather command texts and system instructions using Gemini.",
+  "requestFramePermissions": []
+}
